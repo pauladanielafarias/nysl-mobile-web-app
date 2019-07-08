@@ -1,5 +1,6 @@
 # nysl-mobile-web-app
 Mobile web app for the Northside Youth Soccer League(NYSL)
+This project is hosted in Firebase: https://nysl-pauli.firebaseapp.com/
 
 This is a responsive web mobile app, so it will be seen better if it's opened in a cellphone. 
 You can create a shortcut on the phone's home screen just searching the url on your cellphone navigator (Chrome, Safari, etc) and selecting the "Add a shortcut" option. 
