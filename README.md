@@ -11,7 +11,7 @@
 #### Mobile web app para la liga de fútbol Northside Youth Soccer League(NYSL).
 - La app está en inglés.
 
-### :computer: Tecnologías: 
+### :computer: Technologies used: 
 - **Front-end:** 
   - HTML5
   - CSS3
