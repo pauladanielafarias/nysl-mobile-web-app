@@ -1,6 +1,6 @@
 # :soccer: NYSL Mobile Web App
 
-### Mobile web app for the Northside Youth Soccer League(NYSL).
+### Mobile web app for the Northside Youth Soccer League (NYSL).
 
 - This is a responsive mobile web app, so it will be seen better if it's opened on a mobile. 
 - You can create a shortcut on the phone's home screen just searching the url https://nysl-pauli.firebaseapp.com/ on your mobile navigator (Chrome, Safari, etc) and selecting the "Add a shortcut" option. 
@@ -8,7 +8,7 @@
 - Remember that this is a web application, so if you refresh the page on your navigator, the app won't work without an internet connection. If you don't refresh it, it will work without internet because it will be on the cache.
 - The app is in English.
 
-#### Mobile web app para la liga de fútbol Northside Youth Soccer League(NYSL).
+#### Mobile web app para la liga de fútbol Northside Youth Soccer League (NYSL).
 - La app está en inglés.
 
 ### :computer: Technologies used: 
