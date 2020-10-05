@@ -16,6 +16,8 @@
   - HTML5
   - CSS3
   - JavaScript
+  - _Complements:_
+    - W3.css
 
 - **Backend:** 
   - Node.js 
